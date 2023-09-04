@@ -1,0 +1,27 @@
+
+.drawer{
+    background-color: var(--sidenav-color);
+    color:#FBFBF5;
+    height: 100%;
+}
+
+.drawer_icon{
+    color: #FBFBF5;
+}
+
+.divider{
+    background-color: #FBFBF5;
+    /* width: 155px; */
+}
+
+.sidenav_header{
+    margin-top: 2rem;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+.typography {
+    text-align: center;
+    text-transform: capitalize;
+  }
+  
